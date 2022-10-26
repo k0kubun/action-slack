@@ -1,5 +1,10 @@
 # k0kubun/action-slack
 
+## Status
+
+It's been moved to [ruby/action-slack](https://github.com/ruby/action-slack).
+Please use that or [action-slack](https://github.com/marketplace/actions/action-slack) on the marketplace instead.
+
 ## Usage
 
 Set your incoming webhook to `SLACK_WEBHOOK_URL`, and just directly specify its payload.
